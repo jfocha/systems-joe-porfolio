@@ -9,9 +9,9 @@ A website that displays my skills as a web developer.
 * CSS
 
 ## Website
-https://jfocha.github.io/horiseon/
+https://jfocha.github.io/systems-joe-portfolio/
 
 ## Contribution
 Made with ❤️ by Joseph Focha
 
-![alt text](./assets/images/full-webpage.png)
+![alt text](./assets/images/screenshot.png)
